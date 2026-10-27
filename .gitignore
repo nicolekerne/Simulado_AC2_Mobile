@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Firebase
+google-services.json
+
+# Bancos de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Android Studio
+.gradle/
+build/
+**/build/
+.idea/
+local.properties
+
+# Chaves privadas
+*.jks
+*.keystore
+*.pem
